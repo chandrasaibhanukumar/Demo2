@@ -11,8 +11,14 @@ public class Bhanu2 {
 		System.out.println("Kumar");
 		System.out.println("Kumar");
 		System.out.println("Kumar");System.out.println("Kumar");System.out.println("Kumar");
-
-
+		System.out.println("Kumar");
+		System.out.println("Kumar");
+		System.out.println("Kumar");System.out.println("Kumar");
+		System.out.println("Kumar");
+		System.out.println("Kumar");
+		System.out.println("Kumar");
+		System.out.println("Kumar");System.out.println("Kumar");
+		
 	}
 
 }
